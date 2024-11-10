@@ -1,3 +1,4 @@
+import streamlit as st
 # Streamlit UI setup
 st.set_page_config(page_title="Travel Planner", page_icon=":earth_africa:")
 
